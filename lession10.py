@@ -3,6 +3,7 @@ class My_filiter:
         self.name = name
         self.age = age
 
-    def
+    def f1(self):
+        pass
 
 
